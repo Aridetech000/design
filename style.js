@@ -33,7 +33,7 @@ gsap.from("#page2>#box1", {
     scrollTrigger: {
         trigger: "#page2>#box1",
         scroller: "body",
-        markers: true,
+        // markers: true,
         start: "top 95%",
         end:"top 80%",
         scrub: 3,
@@ -46,7 +46,7 @@ gsap.from("#page2>#box2", {
     scrollTrigger: {
         trigger: "#page2>#box2",
         scroller: "body",
-        markers: true,
+        // markers: true,
         start: "top 95%",
         end:"top 80%",
         scrub: 3,
@@ -59,7 +59,7 @@ gsap.from("#page2>#box3", {
     scrollTrigger: {
         trigger: "#page2>#box3",
         scroller: "body",
-        markers: true,
+        // markers: true,
         start: "top 95%",
         end:"top 80%",
         scrub: 3,
